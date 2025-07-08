@@ -50,23 +50,6 @@ python library.py
 
 ---
 
-🧑‍💻 Author
-
-Nagamanikanta Nallaganchu
-GitHub
-
----
-
 📄 License
 
 This project is open source and available under the MIT License.
-
----
-
-### ✅ Next Steps
-
-- Replace `green1210` with your actual GitHub username.
-- Rename the Python files if needed (e.g., combine `initialize_db.py` and `library.py`).
-- Add a `LICENSE` file if you want an open-source license like MIT.
-
-Let me know if you'd like help with the GUI version or want this turned into a Flask web app!
