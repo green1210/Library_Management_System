@@ -47,6 +47,9 @@ python initialize_db.py
 #Run the main program
 python library.py
 ```
+
+---
+
 📄 License
 
 This project is open source and available under the MIT License.
