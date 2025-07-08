@@ -38,7 +38,7 @@ No external libraries are required — uses Python’s built-in `sqlite3`.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/library-management.git
+git clone https://github.com/green1210/library-management.git
 cd library-management
 
 #Initialize the database
